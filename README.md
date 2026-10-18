@@ -7,7 +7,6 @@
     solving problems, and learning something new every day.
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=LinhMarky&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
