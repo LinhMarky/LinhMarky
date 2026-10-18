@@ -1,29 +1,15 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Linh+%F0%9F%91%8B;Aspiring+Java+Backend+Developer;Learning.+Building.+Improving." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:142B4A,100:2563EB&height=190&section=header&text=Linh%20Marky&fontSize=46&fontColor=F0F6FC&fontAlignY=38&desc=LEARNING%20%2F%20BUILDING%20%2F%20IMPROVING&descSize=13&descColor=9DBDE5&descAlignY=60" width="100%" alt="Linh Marky" />
 
-  <p>
-    A student from Vietnam passionate about coding,<br/>
-    solving problems, and learning something new every day.
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3200&pause=1500&color=8CAED4&center=true&vCenter=true&width=435&height=30&lines=Turning+curiosity+into+code.;One+commit+at+a+time." alt="A short coding tagline" />
 
+<br/>
 
-</div>
+<sub>JAVA BACKEND DEVELOPMENT &nbsp; · &nbsp; VIETNAM</sub>
 
----
+<br/><br/>
 
-<div align="center">
-
-  <h3>🐍 CONTRIBUTION JOURNEY</h3>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinhMarky/LinhMarky/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LinhMarky/LinhMarky/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/LinhMarky/LinhMarky/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-  <br/>
-
-  <i>Learning something new, one commit at a time.</i>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:58A6FF,100:142B4A&height=2&section=footer" width="76%" alt="" />
 
 </div>
