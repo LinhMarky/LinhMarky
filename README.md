@@ -2,12 +2,11 @@
 
 <div align="center">
 
-
 ### `Turning curiosity into code.`
 
-**Software Engineering  · Hanoi, Vietnam**
+**Software Engineering Student · Hanoi, Vietnam**
 
-*Software Engineer — Backend-focused, building web , app applications.*
+*Aspiring Software Engineer — Backend-focused, building web and mobile applications.*
 
 </div>
 
@@ -15,29 +14,30 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineering student interested in building practical applications and improving my software development skills. My main focus is backend development, while exploring web technologies and software engineering fundamentals.
+I'm a software engineering student passionate about building practical applications and continuously improving my development skills. My main focus is backend development, with an interest in web and mobile applications.
 
-- 💻 Interested in backend development and web applications.
-- ☕ Learning and building with Java and Spring Boot.
-- 🌱 Continuously improving through coding and personal projects.
+- 💻 Focused on backend development and software engineering.
+- ☕ Building projects with Java and Spring Boot.
+- 🌱 Learning through hands-on projects and continuous practice.
 
 ---
 
 ## 🛠️ Tech Stack
 
 
-<div align="left">
+<div>
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" />
-</div>
 
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,spring,mysql&theme=dark" />
-</div>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,spring,hibernate,maven,gradle,mysql&theme=dark" />
 
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,linux,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=androidstudio,sqlite&theme=dark" />
+
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,linux,powershell,figma,postman&theme=dark" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens/F7DF1E" height="48" alt="JWT" />
 </div>
 
 ---
