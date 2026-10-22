@@ -25,19 +25,16 @@ I'm a software engineering student interested in building practical applications
 
 ## 🛠️ Tech Stack
 
-**Languages**
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" />
 </div>
 
-**Web & Backend**
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,spring,mysql&theme=dark" />
 </div>
 
-**Tools & Environment**
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,linux,powershell&theme=dark" />
