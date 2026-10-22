@@ -2,13 +2,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F4B99&height=180&section=header&text=Linh%20Marky&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=LEARNING%20%2F%20BUILDING%20%2F%20IMPROVING&descAlignY=60&descSize=14" width="100%" />
 
 ### `Turning curiosity into code.`
 
-**Software Engineering Student · PTIT, Vietnam**
+**Software Engineering  · Hanoi, Vietnam**
 
-*Aspiring Software Engineer — Backend-focused, building web applications.*
+*Software Engineer — Backend-focused, building web , app applications.*
 
 </div>
 
