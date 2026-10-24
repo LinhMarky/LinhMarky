@@ -14,12 +14,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineering student passionate about building practical applications and continuously improving my development skills. My main focus is backend development, with an interest in web and mobile applications.
+I'm a Software Engineering student interested in building practical applications and continuously improving my development skills. My primary focus is backend development for web and mobile applications, while exploring systems engineering, cloud computing, and DevOps.
 
-- 💻 Focused on backend development and software engineering.
-- ☕ Building projects with Java and Spring Boot.
-- 🌱 Learning through hands-on projects and continuous practice.
-
+- 💻 Focused on backend development, REST APIs, and database-driven applications.
+- ☕ Building projects with Java, Spring Boot, and related backend technologies.
+- 🌐 Exploring systems, cloud infrastructure, and DevOps to understand how applications are built, deployed, and operated.
 ---
 
 ## 🛠️ Tech Stack
