@@ -4,9 +4,9 @@
 
 ### `Turning curiosity into code.`
 
-**Software Engineering Student · Hanoi, Vietnam**
+**Software Engineering Student · PTIT, Vietnam**
 
-*Aspiring Software Engineer — Backend-focused, building web and mobile applications.*
+*Aspiring Software Engineer | Building Web & Mobile Applications | Exploring Systems, Cloud & DevOps*
 
 </div>
 
