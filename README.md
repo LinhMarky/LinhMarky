@@ -1,14 +1,15 @@
-# Linh Marky
-
 <div align="center">
 
-### `Turning curiosity into code.`
+<h1>Linh Marky</h1>
+
 
 **Software Engineering Student · PTIT, Vietnam**
 
 *Aspiring Software Engineer | Building Web & Mobile Applications | Exploring Systems, Cloud & DevOps*
 
 </div>
+
+---
 
 ---
 
