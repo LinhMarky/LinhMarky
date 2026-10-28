@@ -40,6 +40,14 @@ I'm a Software Engineering student interested in building practical applications
 <img src="https://cdn.simpleicons.org/jsonwebtokens/F7DF1E" height="48" alt="JWT" />
 </div>
 
+
+## 🚀 Featured Projects
+
+- **[InternMatching](https://github.com/Tailinh123/RIPT1307-03-2026-Nhom4-KTHP)** — A platform connecting students with internship opportunities.
+- **[Roomly](https://github.com/LinhMarky/Mobile-Development-Ptit)** — An Android application with backend integration.
+- **[Data Structures and Algorithms](https://github.com/LinhMarky/Data_Structures_and_Algorithms_PTIT)** — C++ practice and algorithm implementations.
+
+
 ---
 
 <div align="center">
