@@ -36,7 +36,7 @@ I'm a Software Engineering student interested in building practical applications
 <img src="https://skillicons.dev/icons?i=androidstudio,sqlite&theme=dark" />
 
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,linux,powershell,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,linux,powershell,figma,postman,postgresql&theme=dark" />
 <img src="https://cdn.simpleicons.org/jsonwebtokens/F7DF1E" height="48" alt="JWT" />
 </div>
 
